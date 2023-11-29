@@ -1,4 +1,4 @@
 ---
-title: feature selection(python)
+title: feature_selection(python)
 ---
 python으로 하는 feature selection입니다.
